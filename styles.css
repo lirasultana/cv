@@ -1,0 +1,90 @@
+body{
+  	display: block;
+    color: #40514E;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.pic1{
+  border-radius: 50px;
+}
+
+.pic2{
+  border-radius: 50px;
+  float: left;
+  margin-left: 20%;
+  margin-right: 10px;
+}
+
+.pic3{
+  border-radius: 50px;
+  float: right;
+  margin-right: 24%;
+  margin-top: -4%;
+}
+
+.me{
+  float: left;
+}
+
+h1{
+	display: block;
+  font-size: 2em;
+  margin-top: 100px;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: #66BFBF;
+  font-style: oblique;
+  font-size: 50px;
+}
+
+h2{
+  	display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color: #66BFBF;
+    font-style: normal;
+    font-size: 30px;
+}
+
+hr{
+display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: auto; margin-right: auto;
+border-top-style: dotted;
+border-top-width: thick;
+width: 2%;
+color: grey;
+float: center;
+margin-right: 50%;
+}
+
+h3{
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: #66BFBF;
+  font-style: normal;
+  font-weight: bold;
+  margin-right: 30%;
+}
+.footer-page{
+  display: block;
+  background-color: #66BFBF;
+  height: 50px;
+  color: white;
+  font-size: 15px;
+}
